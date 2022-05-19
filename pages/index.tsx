@@ -158,7 +158,7 @@ const homePage: NextPage = () => {
                     })
                       .then(response => response.json())
                       .then((res) => {
-                        alert('send')
+                        alert('sent')
                         console.log(res)
                       })
                       .catch((err) => { console.error(err) })
