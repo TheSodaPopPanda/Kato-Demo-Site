@@ -14,9 +14,9 @@ This is a really simple demo that uses from api end points to fetch demo content
 You can see form submissions and the editable content displayed on this page in dashboard.kato.studio login details are below and on the demo page listed above.
 
 
-### Kato CMS Login\
+### Kato CMS Login
 Email:  demo@kato.studio\
-Password:  demo12345678\
+Password:  demo12345678
 
 ## Commands
 
